@@ -1,7 +1,18 @@
 # Welcome to lemur code
-<h1>Making the business happy since 2015!</h1>
-LemurCode (lemur.css, lemur-p.css, and lemur-n.css) allows any CSS permutation of padding and margin, up to 100px/-100px. Simply add a defined class from LemurCode to your HTML tag's class attribute and away you GO! You'll be adding margin and padding indiscriminately in no time. AND it's minified, so you know it's good.<br>
-<br>
-With LemurCode you can make bad business requests a reality; you can give content authors the power they've been looking for; and, you never have to worry about inline styles (at least for margin and padding).<br>
-<br>
-Download the CSS, or include the CDN, at http://www.lemurcode.com for those interested.<br>
+<h1>It's Not Quite The Worst<sup>[3]</sup></h1>
+LemurCode (lemur, lemur-p, and lemur-n) allows any CSS permutation of padding and margin, up to 100px/-100px. Simply add a defined class from LemurCode to your HTML tag's class attribute and away you GO! You'll be adding margin and padding indiscriminately in no time. AND it's minified, so you know it's good.<sup>[1]</sup>
+<br><br>
+With LemurCode you can make bad business requests a reality; you can give content authors the power they've been looking for; and, you never have to worry about inline styles (at least for margin and padding).
+<br><br>
+"Add numbers and include it in your website"<sup>[2]</sup>
+<br><br>
+Download it, or include the CDN, at http://www.lemurcode.com for those interested.<br>
+<br><br>
+<h3>Giving Credit Where It's Due</h3>
+None of this would have been possible without the help of
+<br><br>
+<ul>
+    <li>Dan Federico<sup>[1]</sup></li>
+    <li><a href="github.com/paul-wade">Paul Wade</a><sup>[2]</sup></li>
+    <li>Mark DisPasquale<sup>[3]</sup></li>
+</ul>
