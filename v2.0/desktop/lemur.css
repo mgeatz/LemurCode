@@ -1,5 +1,8 @@
-/* ************ DESKTOP POSITIVE PADDING **************** */
+/* */
 @media only screen and (min-width: 769px) and (max-width: 1900px) {
+	
+	/* ************ POSITIVE PADDING - PIXELS - **************** */
+	
 	.pad-1-d{padding:1px;}
 	.pad-left-1-d{padding-left:1px;}
 	.pad-right-1-d{padding-right:1px;}
@@ -701,7 +704,7 @@
 	.pad-left-right-100-d{padding-left:100px;padding-right:100px;}
 	.pad-top-btm-100-d{padding-top:100px;padding-bottom:100px;}
 
-	/* ************ DESKTOP POSITIVE MARGIN ***************** */
+	/* ************ POSITIVE MARGIN  - PIXELS - ***************** */
 
 	.mrgn-1-d{margin:1px;}
 	.mrgn-left-1-d{margin-left:1px;}
@@ -1404,7 +1407,7 @@
 	.mrgn-left-right-100-d{margin-left:100px;margin-right:100px;}
 	.mrgn-top-btm-100-d{margin-top:100px;margin-bottom:100px;}
 
-	/* ************* DESKTOP NEGATIVE PADDING **************** */
+	/* ************* NEGATIVE PADDING  - PIXELS - **************** */
 
 	.n-pad-1-d{padding:-1px;}
 	.n-pad-left-1-d{padding-left:-1px;}
@@ -2107,7 +2110,7 @@
 	.n-pad-left-right-100-d{padding-left:-100px;padding-right:-100px;}
 	.n-pad-top-btm-100-d{padding-top:-100px;padding-bottom:-100px;}
 
-	/* ******** DESKTOP NEGATIVE MARGIN ************* */
+	/* ******** NEGATIVE MARGIN  - PIXELS - ************* */
 
 	.n-mrgn-1-d{margin:-1px;}
 	.n-mrgn-left-1-d{margin-left:-1px;}
@@ -2810,7 +2813,7 @@
 	.n-mrgn-left-right-100-d{margin-left:-100px;margin-right:-100px;}
 	.n-mrgn-top-btm100-d{margin-top:-100px;margin-bottom:-100px;}
 	
-	/* ********** PERCENTAGES ************ */
+	/* ************* POSITIVE PADDING  PERCENT  ************** */
 	
 	.pad-1-dcent{padding:1%;}
 	.pad-left-1-dcent{padding-left:1%;}
@@ -3513,7 +3516,7 @@
 	.pad-left-right-100-dcent{padding-left:100%;padding-right:100%;}
 	.pad-top-btm-100-dcent{padding-top:100%;padding-bottom:100%;}
 
-	/* ************ DESKTOP POSITIVE MARGIN ***************** */
+	/* ************ POSITIVE MARGIN  PERCENT  ***************** */
 
 	.mrgn-1-dcent{margin:1%;}
 	.mrgn-left-1-dcent{margin-left:1%;}
@@ -4216,7 +4219,7 @@
 	.mrgn-left-right-100-dcent{margin-left:100%;margin-right:100%;}
 	.mrgn-top-btm-100-dcent{margin-top:100%;margin-bottom:100%;}
 
-	/* ************* DESKTOP NEGATIVE PADDING **************** */
+	/* ************* NEGATIVE PADDING  PERCENT  **************** */
 
 	.n-pad-1-dcent{padding:-1%;}
 	.n-pad-left-1-dcent{padding-left:-1%;}
@@ -4919,7 +4922,7 @@
 	.n-pad-left-right-100-dcent{padding-left:-100%;padding-right:-100%;}
 	.n-pad-top-btm-100-dcent{padding-top:-100%;padding-bottom:-100%;}
 
-	/* ******** DESKTOP NEGATIVE MARGIN ************* */
+	/* ******** NEGATIVE MARGIN  PERCENT ************* */
 
 	.n-mrgn-1-dcent{margin:-1%;}
 	.n-mrgn-left-1-dcent{margin-left:-1%;}
