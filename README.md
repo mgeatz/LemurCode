@@ -4,9 +4,9 @@ up to 100px/-100px. Simply add a class to your HTML element for indiscriminate m
 
 **V1.0 and V2.0 are no longer supported**
 
-####Documentation :: V3.0 
+### Documentation :: V3.0 
 
-#####MARGIN
+##### MARGIN
 
 **Positive Margin** is available from 1px to 100px, applying classes that follow this structure:
 
@@ -23,7 +23,7 @@ up to 100px/-100px. Simply add a class to your HTML element for indiscriminate m
  `margin-left-1px` 
  
  
- #####PADDING
+ ##### PADDING
  
  **Positive Padding** is available from 1px to 100px, applying classes that follow this structure:
  
