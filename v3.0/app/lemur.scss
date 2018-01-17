@@ -1,0 +1,43 @@
+// POSTIVE margin
+@for $i from 1 through 100 {
+  .margin_top_#{$i} {
+    margin-top: #{$i}px;
+  }
+  .margin_right_#{$i} {
+    margin-right: #{$i}px;
+  }
+  .margin_bottom_#{$i} {
+    margin-bottom: #{$i}px;
+  }
+  .margin_left_#{$i} {
+    margin-left: #{$i}px;
+  }
+
+  // NEGATIVE margin
+  .margin-top-#{$i} {
+    margin-top: -#{$i}px;
+  }
+  .margin-right-#{$i} {
+    margin-right: -#{$i}px;
+  }
+  .margin-bottom-#{$i} {
+    margin-bottom: -#{$i}px;
+  }
+  .margin-left-#{$i} {
+    margin-left: -#{$i}px;
+  }
+
+  // POSITIVE padding
+  .padding_top_#{$i} {
+    padding-top: #{$i}px;
+  }
+  .padding_right_#{$i} {
+    padding-right: #{$i}px;
+  }
+  .padding_bottom_#{$i} {
+    padding-bottom: #{$i}px;
+  }
+  .padding_left_#{$i} {
+    padding-left: #{$i}px;
+  }
+}
