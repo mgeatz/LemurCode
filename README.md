@@ -6,6 +6,7 @@ up to 100px/-100px. Simply add a class to your HTML element for indiscriminate m
 
 ### Documentation :: V3.0 
 
+ 
 ##### MARGIN
 
 **Positive Margin** is available from 1px to 100px, applying classes that follow this structure:
@@ -22,7 +23,7 @@ up to 100px/-100px. Simply add a class to your HTML element for indiscriminate m
  `margin-bottom-1px`
  `margin-left-1px` 
  
- 
+  
  ##### PADDING
  
  **Positive Padding** is available from 1px to 100px, applying classes that follow this structure:

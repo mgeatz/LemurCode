@@ -1,0 +1,26 @@
+{
+  "name": "lemurcode",
+  "version": "3.0.0",
+  "description": "LemurCode allows any CSS permutation of padding and margin +/-100px.",
+  "main": "app/lemur.scss",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgeatz/lemur.git"
+  },
+  "keywords": [
+    "margin",
+    "padding",
+    "styles",
+    "scss",
+    "css"
+  ],
+  "author": "Michael Geatz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgeatz/lemur/issues"
+  },
+  "homepage": "https://github.com/mgeatz/lemur#readme"
+}
