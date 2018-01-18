@@ -2,6 +2,8 @@
 LemurCode (lemur, lemur-p, and lemur-n) allows any CSS permutation of padding and margin,
 up to 100px/-100px. Simply add a class to your HTML element for indiscriminate margin and padding. 
 
+[![Build Status](https://travis-ci.org/mgeatz/LemurCode.svg?branch=master)](https://travis-ci.org/mgeatz/LemurCode) [![codecov](https://codecov.io/gh/mgeatz/LemurCode/branch/master/graph/badge.svg)](https://codecov.io/gh/mgeatz/LemurCode)
+
 **V1.0 and V2.0 are no longer supported**
 
 ### Documentation :: V3.0 
