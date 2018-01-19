@@ -5,7 +5,6 @@
   "main": "app/lemur.scss",
   "scripts": {
     "pretest": "npm install",
-    "postinstall": "yarn install",
     "test": "karma start karma.conf.js",
     "report-coverage": "codecov",
     "test-single-run": "karma start karma.conf.js --single-run",
