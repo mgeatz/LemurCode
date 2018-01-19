@@ -6,10 +6,7 @@
   "scripts": {
     "test": ""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mgeatz/lemur.git"
-  },
+  "repository": "git+https://github.com/mgeatz/lemur.git",
   "keywords": [
     "margin",
     "padding",
@@ -22,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/mgeatz/lemur/issues"
   },
-  "homepage": "https://github.com/mgeatz/lemur#readme"
+  "homepage": "https://github.com/mgeatz/lemur#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "karma": "^2.0.0",
+    "mocha": "^5.0.0",
+    "protractor": "^5.2.2"
+  }
 }
