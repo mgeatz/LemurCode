@@ -4,14 +4,7 @@
   "description": "LemurCode allows any CSS permutation of padding and margin +/-100px.",
   "main": "app/lemur.scss",
   "scripts": {
-    "pretest": "npm install",
-    "test": "karma start karma.conf.js",
-    "report-coverage": "codecov",
-    "test-single-run": "karma start karma.conf.js --single-run",
-    "preupdate-webdriver": "npm install",
-    "update-webdriver": "webdriver-manager update",
-    "preprotractor": "npm run update-webdriver",
-    "protractor": "protractor e2e-tests/protractor.conf.js"
+
   },
   "repository": "git+https://github.com/mgeatz/lemur.git",
   "keywords": [
@@ -29,9 +22,6 @@
   "homepage": "https://github.com/mgeatz/lemur#readme",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0",
-    "karma": "^2.0.0",
-    "mocha": "^5.0.0",
-    "protractor": "^5.2.2"
+    "gulp-sass": "^3.1.0"
   }
 }
